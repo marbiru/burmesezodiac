@@ -1,0 +1,43 @@
+h1 {
+  color: #4B4B4D;
+  font-size: 60px;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: center;
+  margin-top: 40px;
+}
+
+h2 {
+  color: #4B4B4D;
+  font-size: 40px;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: center;
+  padding: bottom;
+  margin-bottom: 40px;
+}
+
+p, label, input {
+  color: #4B4B4D;
+  font-size: 28px;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+#printZodiac {
+  color: #4B4B4D;
+  font-size: 88px;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+.note {
+  color: #4B4B4D;
+  font-size: 16px;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+/* Background pattern from subtlepatterns.com */
+
+body {
+    background-image: url("symphony.png");
+}
